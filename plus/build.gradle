@@ -1,7 +1,9 @@
-apply plugin: 'com.android.library'
-
 group = "com.bnpinnovation"
 version = "1.1"
+
+apply plugin: 'com.android.library'
+
+
 android {
     compileSdkVersion 23
     buildToolsVersion "23.0.2"
